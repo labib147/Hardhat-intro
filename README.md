@@ -11,5 +11,3 @@ npm install
 ```
 ## Flame Directory
 
-# Hardhat-intro
-# Hardhat-intro
