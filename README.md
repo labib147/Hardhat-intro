@@ -11,3 +11,8 @@ npm install
 ```
 ## Flame Directory
 
+Steps:
+
+npx hardhat compile
+npx hardhat run scripts/deploy.js
+
