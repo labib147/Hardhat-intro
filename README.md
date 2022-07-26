@@ -8,11 +8,12 @@ To install please complete the following:
 
 ```
 npm install
+npx hardhat compile
+npx hardhat run scripts/deploy.js
 ```
 ## Flame Directory
 
 Steps:
 
-npx hardhat compile
-npx hardhat run scripts/deploy.js
+
 
