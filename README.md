@@ -11,6 +11,9 @@ npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js
 ```
+Setup Hardhat: 
+https://medium.com/@imdheeraj28/how-to-setup-hardhat-and-compile-test-and-deploy-contracts-using-it-30b1d57b4602#:~:text=To%20install%20it%2C%20create%20an,npx%20hardhat%20in%20project%20folder.&text=If%20you%20select%20the%20second%20option%2C%20an%20empty%20hardhat.
+
 ## Flame Directory
 
 
